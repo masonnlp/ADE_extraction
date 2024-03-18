@@ -1,4 +1,4 @@
-Repository for AMIA 2024 Poster Submission: "Identifying Adverse Drug Events Using Supervised Learning"
+Repository for AMIA 2024 Poster Submission: "Identifying Adverse Drug Events Using Ensemble Models"
 
 Directory structure: all files should be in the same directory, at the same level.
 
