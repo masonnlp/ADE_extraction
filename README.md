@@ -2,6 +2,8 @@
 
 # Requirements:
 * Directory structure: all files should be in the same directory, at the same level.
+* Requirements available in requirements.txt. Run pip install -r requirements.txt.
+* Created with Python 3.9.9
 
 # Instructions: 
 1. Create a folder with BRAT annotated notes from the MIMIC 3 corpus.
